@@ -20,3 +20,7 @@ Get **Atlas.dmg** from the [latest release](../../releases/latest). It needs mac
 - Follow-up suggestions, study tools, read aloud and PDF export
 - Pin, archive, rename and share chats through links
 - Your chats stay on your Mac
+- Ten languages, including English, Danish and Afrikaans
+- Check for Updates in Settings > About
+- Ten languages, including English, Danish and Afrikaans
+- Check for Updates in Settings > About
